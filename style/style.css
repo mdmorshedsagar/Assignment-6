@@ -1,0 +1,12 @@
+.cross-btn{
+    border:none;
+}
+.arrow-btn{
+    border:none;
+    border-radius: 30px;
+    padding:12px 18px 12px 18px;
+}
+.arrow-icon{
+    color:rgb(214, 83, 53);
+    font-size: 24px;
+}
